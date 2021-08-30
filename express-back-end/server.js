@@ -12,7 +12,7 @@ app.use('/api/quotes', quotesAPI);
 
 
 app.get('/', (req, res) => {
-    res.send('Hesllo');
+    res.send('Hello');
 });
 
 
