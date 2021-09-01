@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import QuoteSmallTable from "./Quote/Quotes";
-import './App.css';
+import './App.scss';
 
 
 export default function () {
